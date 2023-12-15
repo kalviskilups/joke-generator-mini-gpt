@@ -1,0 +1,13 @@
+{
+    "batch_size": 64,
+    "block_size": 256,
+    "max_iterations": 5000,
+    "evaluation_interval": 500,
+    "learning_rate": 3e-4,
+    "device": "cuda",
+    "evaluation_iterations": 200,
+    "embedding_dimension": 384,
+    "num_heads": 6,
+    "num_layers": 6,
+    "dropout_rate": 0.2
+}
